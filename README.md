@@ -86,9 +86,6 @@ Technologies Used 🧑‍💻
     *   **Scikit-learn** for model training and predictions.
     *   **Joblib** for loading pre-trained models.
 
-live web app link  🖥️
----------------------------
-[https://github.com/kashh56/Commodity_price_predictor](https://commoditypricepredictor-akash.streamlit.app/)
 
 Contributing 🤝
 ---------------
